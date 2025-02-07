@@ -1,0 +1,53 @@
+Gene	Pathway
+CCND3	Cell Cycle
+TP53	Cell Cycle
+MSH2	DNA repair
+CREBBP	Epigenetic Factors
+EZH2	Epigenetic Factors
+KDM6A	Epigenetic Factors
+KDM6B	Epigenetic Factors
+KMT2A	Epigenetic Factors
+KMT2C	Epigenetic Factors
+KMT2D	Epigenetic Factors
+PHF6	Epigenetic Factors
+SETD1B	Epigenetic Factors
+SUZ12	Epigenetic Factors
+TET2	Epigenetic Factors
+SMARCA4	Epigenetic Factors
+USP7	Epigenetic Factors
+DNM2	JAK/STAT Signaling
+IL7R	JAK/STAT Signaling
+JAK1	JAK/STAT Signaling
+JAK3	JAK/STAT Signaling
+STAT3	JAK/STAT Signaling
+STAT5A	JAK/STAT Signaling
+STAT5B	JAK/STAT Signaling
+CRLF2	JAK/STAT Signaling
+PTPRD	JAK/STAT Signaling
+FBXW7	NOTCH Signaling
+NOTCH1	NOTCH Signaling
+NOTCH3	NOTCH Signaling
+PIK3CA	PI3K Signaling
+PIK3CD	PI3K Signaling
+PIK3R1	PI3K Signaling
+PTEN	PI3K Signaling
+KRAS	RAS Signaling
+NRAS	RAS Signaling
+KIT	RAS Signaling
+BCL11B	Transcription Factors
+IKZF1	Transcription Factors
+MED12	Transcription Factors
+RUNX1	Transcription Factors
+CNOT3	Transcription Factors
+MYB	Transcription Factors
+MYCN	Transcription Factors
+ZBTB7A	Transcription Factors
+ZNF91	Transcription Factors
+DDX3X	Zother
+NT5C2	Zother
+ROR2	Zother
+COG1	Zother
+MYCBP2	Zother
+NOS3	Zother
+USH2A	Zother
+TMED1	Zother
